@@ -1,0 +1,35 @@
+/* ------------------
+ styling for Bucks Referees Appointment 
+   ------------------   */
+
+table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+font-size: 12px;
+width: 100%;
+text-align: left;
+border-collapse: collapse;
+}
+
+th {
+font-size: 12px;
+font-weight: bold;
+padding: 8px;
+background: #934c4c;
+border-top: 4px solid #660000;
+border-bottom: 1px solid #fff;
+color: #ffffff;
+}
+
+td {
+padding: 8px;
+background: #efe5e5; 
+border-bottom: 1px solid #fff;
+color: #330000;
+border-top: 1px solid transparent;
+}
+
+tr:hover td {
+background: #e0cccc;
+color: #a36666;
+}
+
